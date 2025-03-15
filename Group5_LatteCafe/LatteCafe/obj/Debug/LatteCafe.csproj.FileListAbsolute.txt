@@ -1,0 +1,11 @@
+D:\64-040226-1615-1\040223203\Project\Group5_LatteCafe\LatteCafe\bin\Debug\LatteCafe.exe.config
+D:\64-040226-1615-1\040223203\Project\Group5_LatteCafe\LatteCafe\bin\Debug\LatteCafe.exe
+D:\64-040226-1615-1\040223203\Project\Group5_LatteCafe\LatteCafe\bin\Debug\LatteCafe.pdb
+D:\64-040226-1615-1\040223203\Project\Group5_LatteCafe\LatteCafe\obj\Debug\LatteCafe.csproj.AssemblyReference.cache
+D:\64-040226-1615-1\040223203\Project\Group5_LatteCafe\LatteCafe\obj\Debug\LatteCafe.csproj.SuggestedBindingRedirects.cache
+D:\64-040226-1615-1\040223203\Project\Group5_LatteCafe\LatteCafe\obj\Debug\LatteCafe.formPayment.resources
+D:\64-040226-1615-1\040223203\Project\Group5_LatteCafe\LatteCafe\obj\Debug\LatteCafe.Properties.Resources.resources
+D:\64-040226-1615-1\040223203\Project\Group5_LatteCafe\LatteCafe\obj\Debug\LatteCafe.csproj.GenerateResource.cache
+D:\64-040226-1615-1\040223203\Project\Group5_LatteCafe\LatteCafe\obj\Debug\LatteCafe.csproj.CoreCompileInputs.cache
+D:\64-040226-1615-1\040223203\Project\Group5_LatteCafe\LatteCafe\obj\Debug\LatteCafe.exe
+D:\64-040226-1615-1\040223203\Project\Group5_LatteCafe\LatteCafe\obj\Debug\LatteCafe.pdb
